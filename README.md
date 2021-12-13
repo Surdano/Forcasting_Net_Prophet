@@ -1,5 +1,5 @@
 # Forecasting_Net_Prophet
-![Photo of telescope looking at stock graph](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFbGvu65nlI3zVR7-PXURzhYq34IPe_Hk59Aj98gia_ZnsBOtHrvw3OYK2hwpjEnPpGqE&usqp=CAU)
+![Photo of telescope looking at stock graph](https://s32519.pcdn.co/wp-content/uploads/2019/12/measuring-forecast-accuracy-banner-2272px.png)
 
 This application analyzes Google search traffic, stock prices, and sales revenue for the MercadoLibre stock to find patterns from forecasting and providing analysis. Forecasting is done using the fbProphet algorithm.
 
